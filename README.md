@@ -29,11 +29,11 @@ A simple and efficient note-taking web application that allows users to create, 
 
 ## 📸 Screenshots
 
-![Notes UI](https://github.com/user-attachments/assets/f4e17dcd-bcb1-4075-9041-40c7e63add1b)
-
-![Saved Notes](https://github.com/user-attachments/assets/dc66d9ea-0340-4f7a-a6c5-8eea53da9f0b)
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f4e17dcd-bcb1-4075-9041-40c7e63add1b" alt="Notes UI" width="100%">
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/dc66d9ea-0340-4f7a-a6c5-8eea53da9f0b" alt="Saved Notes" width="100%">
+</div>
 ---
 
 ## ⚙️ Installation & Setup
